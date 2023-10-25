@@ -1,0 +1,17 @@
+/root/CMakeProjs/10_Sanitizers/build/CMakeFiles/docs.dir
+/root/CMakeProjs/10_Sanitizers/build/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/configured/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/configured/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/src/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/src/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/src/my_lib/CMakeFiles/Library.dir
+/root/CMakeProjs/10_Sanitizers/build/src/my_lib/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/external/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/external/CMakeFiles/rebuild_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/app/CMakeFiles/Executable.dir
+/root/CMakeProjs/10_Sanitizers/build/app/CMakeFiles/edit_cache.dir
+/root/CMakeProjs/10_Sanitizers/build/app/CMakeFiles/rebuild_cache.dir
